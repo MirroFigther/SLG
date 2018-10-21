@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.0" orientation="orthogonal" renderorder="left-down" width="16" height="10" tilewidth="60" tileheight="60" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="grass" tilewidth="60" tileheight="60" tilecount="9" columns="3">
+  <image source="grass.png" width="239" height="180"/>
+ </tileset>
+ <layer name="块层 1" width="16" height="10">
+  <data encoding="csv">
+7,8,7,8,7,8,7,8,7,8,7,8,7,8,7,8,
+7,8,7,8,7,8,7,8,7,8,7,8,7,8,7,8,
+7,8,7,8,7,8,7,8,7,8,7,8,7,8,7,8,
+7,8,7,8,7,8,7,8,7,8,7,8,7,8,7,8,
+7,8,7,8,7,8,7,8,7,8,7,8,7,8,7,8,
+7,8,7,8,7,8,7,8,7,8,7,8,7,8,7,8,
+7,8,7,8,7,8,7,8,7,8,7,8,7,8,7,8,
+7,8,7,8,7,8,7,8,7,8,7,8,7,8,7,8,
+7,8,7,8,7,8,7,8,7,8,7,8,7,8,7,8,
+7,8,7,8,7,8,7,8,7,8,7,8,7,8,7,8
+</data>
+ </layer>
+</map>
